@@ -1,2 +1,2 @@
 # RockPaperScissors
-Rep for Javascript Rock Paper Scissors Project
+Repo for Javascript Rock Paper Scissors Project
